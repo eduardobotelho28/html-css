@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(to right, #791e94, #ED2BFF);
+}
+
+main {
+    background-color: white;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+
+h1 {
+    color: #d373b3f7;
+}
+
+h2 {
+    color: #222222;
+}
+
+div {
+    margin: auto;
+    width: 300px;
+    background-color: #222222;
+    color: #FFFFF2;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+
+.titulo {
+    color: #791E94;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
